@@ -1,6 +1,6 @@
 # 📊 Sensor Anomaly Detection using Auto Encoders
 
-This project explores unsupervised anomaly detection using autoencoders for sensor data, inspired by SmartSkin Technologies. It simulates the detection of anomalies in unlabeled real-time sensor streams (torque, pressure, vibration) by analyzing reconstruction error from autoencoders. The detection logic was further improved by fine-tuning the anomaly threshold.
+This project explores unsupervised anomaly detection using autoencoders for sensor data. It simulates the detection of anomalies in unlabeled real-time sensor streams (torque, pressure, vibration) by analyzing reconstruction error from autoencoders. The detection logic was further improved by fine-tuning the anomaly threshold.
 
 ---
 
